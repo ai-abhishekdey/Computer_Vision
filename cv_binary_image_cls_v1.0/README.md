@@ -11,13 +11,17 @@ This work is an example of Binary Image Classification. Here we try to classify 
 
 ### Dataset:
 
-The data set considered in this work is downloaded from **Kaggle**.
+The data set considered in this work is downloaded from **Kaggle**. Download the dataset from the below link and unzip train.zip and test1.zip 
 
 **Dataset Link:**
 
 https://www.kaggle.com/competitions/dogs-vs-cats/data
 
 
+### Custom CNN Model training and evaluation:
+
+
+* Follow the [binary_img_cls_v1.0]<binary_img_cls_v1.0.ipynb> notebook
 
 
 
