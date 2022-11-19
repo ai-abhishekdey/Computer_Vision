@@ -21,7 +21,7 @@ https://www.kaggle.com/competitions/dogs-vs-cats/data
 ### Custom CNN Model training and evaluation:
 
 
-* Follow the [binary_img_cls_v1.0]<binary_img_cls_v1.0.ipynb> notebook
+* Follow the [binary_img_cls_v1.0](binary_img_cls_v1.0.ipynb) notebook
 
 
 
