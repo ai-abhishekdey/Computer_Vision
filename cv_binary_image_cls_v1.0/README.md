@@ -1,17 +1,17 @@
 ## Binary Image Classification - v1.0
 
-**Author: Abhishek Dey <ai.abhishek@gmail.com>**
+**Author: Abhishek Dey (<ai.abhishekdey@gmail.com>)**
 
 **Last Modified: 19-Nov-2022**
 
 ### Description:
 
-This work is an example of Binary Image Classification. Here we try to classify cats v/s dogs.
+This work is an example of Binary Image Classification. Here we try to classify **cats v/s dogs.**
 
 
 ### Dataset:
 
-The data set considered in this work is downloaded from **Kaggle**. Download the dataset from the below link and unzip train.zip and test1.zip 
+The data set considered in this work is downloaded from **Kaggle**. Download the dataset from the below link and unzip **train.zip and test1.zip** 
 
 **Dataset Link:**
 
