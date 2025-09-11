@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+segmentation-models-pytorch
+albumentations==2.0.8
+Pillow
+tqdm
+matplotlib
+scikit-learn
+numpy
+typing-extensions
+ipykernel
