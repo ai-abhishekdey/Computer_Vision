@@ -9,7 +9,7 @@ In this work, an instance segmentation model is developed using [YOLOv11](https:
 
 ### Dataset:
 
-[ROBOFLOW Bottle Detection dataset](https://universe.roboflow.com/hh-hh-nfwyj/bottle-gl3ty) dataset is considered for training the YOLO instance segmentation model. The dataset is split into the following:
+[ROBOFLOW Bottle Detection](https://universe.roboflow.com/hh-hh-nfwyj/bottle-gl3ty) dataset is considered for training the YOLO instance segmentation model. The dataset is split into the following:
 
 * train - 587 images
 
