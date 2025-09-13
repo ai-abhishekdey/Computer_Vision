@@ -9,7 +9,7 @@ In this work, a vehicle number plate detection and recognition system is develop
 
 ### Dataset:
 
-**[ROBOFLOW License Plate Recognition]**(https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e) dataset is considered for training the YOLO number plate detection model. The dataset is split into the following:
+[ROBOFLOW License Plate Recognition](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e) dataset is considered for training the YOLO number plate detection model. The dataset is split into the following:
 
 * train - 7057 images
 
